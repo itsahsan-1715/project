@@ -11,6 +11,6 @@ int main() {
     
     // Call the test function
     sayHello();
-    
+    cout<<"Hy";
     return 0;
 }
